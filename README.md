@@ -1,1 +1,1 @@
-# esp2688-emicro-sdk
+# e-micro-sdk_esp2688
